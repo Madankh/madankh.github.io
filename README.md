@@ -22,11 +22,12 @@ Hi Guys in this page i'm going to show you my some projects. In these projects s
      type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <p>I create multimodel gptbase web app where user can chat with voice , why can generate image , content, sumarise youtube video\
+  <p>I create multimodel gptbase web app where user can chat with voice , why can generate image , content, sumarise youtube video <br/>
   -Tech stack : React JS , node js , mongodb, google auth , openai, ffmpeg</p>
 
   <h1>Next project is Social media webapp with my own design</h1>
-  Youtube playlist : https://www.youtube.com/playlist?list=PLU73o91LnwnbJfqpuTUFmBVejGHW3wq3F"/>
+  Youtube playlist : https://www.youtube.com/playlist?list=PLU73o91LnwnbJfqpuTUFmBVejGHW3wq3F
+  <br/>
   Github project : https://github.com/Madankh/Social-Application
   Tech stack : React Js, redux , node js , mongodb , firebase , socket io
   
@@ -34,7 +35,9 @@ Hi Guys in this page i'm going to show you my some projects. In these projects s
   <h1>Next project is Instagram clone </h1>
   Youtube playlist : https://www.youtube.com/playlist?list=PLU73o91LnwnYwxumwY0IfJJY4b7Kj4KA8
   <p>I create social media clone and also upload on youtube too i only upload fontend part on git backend part is only on youtube and my device</p>
+  <br/>
   Github : https://github.com/Madankh/InstagramClone
+  <br/>
   Tech stack : React Js, passport js , node js , mongodb 
 
   <h1>Next project</h1>
