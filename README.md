@@ -49,5 +49,8 @@ Hi Guys in this page i'm going to show you my some projects. In these projects s
   <p>I create youtube clone and also upload on youtube too</p>
 </div>
 
+<br>
+Here is my real world application project which i build and also teach others how to build : https://www.youtube.com/playlist?list=PLU73o91Lnwnb1M7uf70HZeBX9rmVIJKyv
+
 
 
