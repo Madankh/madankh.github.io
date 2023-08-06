@@ -10,6 +10,7 @@ Hi Guys in this page i'm going to show you my some projects. In these projects s
 - Earning tracking every week.
 - Follow/unfollow sellers and other users.
 - Forgot password with email verification.
+- Ranking feature for post or products    
 - Tech stack: Node.js, React.js, Redux, MongoDB, AWS S3, Socket.io, ffmpeg, Multer.</p>
   <video width="80%" height="500px" controls>
    <source src="https://firebasestorage.googleapis.com/v0/b/mecoo-712c0.appspot.com/o/Timeline%201.mov?alt=media&token=99db6cd6-3988-4ee3-b0eb-64fc668df665">
@@ -29,6 +30,7 @@ Hi Guys in this page i'm going to show you my some projects. In these projects s
   Youtube playlist : https://www.youtube.com/playlist?list=PLU73o91LnwnbJfqpuTUFmBVejGHW3wq3F
   <br/>
   Github project : https://github.com/Madankh/Social-Application
+  Feature : login, signup , follow , unfollow , like , comments , visit profile , forgot password , resetpassword
   Tech stack : React Js, redux , node js , mongodb , firebase , socket io
   
 
@@ -38,6 +40,7 @@ Hi Guys in this page i'm going to show you my some projects. In these projects s
   <br/>
   Github : https://github.com/Madankh/InstagramClone
   <br/>
+  Feature : post ranking where user post have more like the post rank hight and also it the beginning post rank hight when post getting older and if post got less like or comments post rank drop,login, signup , follow , unfollow , like , comments , visit profile , forgot password , resetpassword
   Tech stack : React Js, passport js , node js , mongodb 
 
   <h1>Next project</h1>
