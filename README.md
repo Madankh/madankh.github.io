@@ -26,14 +26,16 @@ Hi Guys in this page i'm going to show you my some projects. In these projects s
   -Tech stack : React JS , node js , mongodb, google auth , openai, ffmpeg</p>
 
   <h1>Next project is Social media webapp with my own design</h1>
-  <a href="https://www.youtube.com/playlist?list=PLU73o91LnwnbJfqpuTUFmBVejGHW3wq3F"/>
-  <p>I create social media clone and also upload on youtube too</p>
-  <a href="https://github.com/Madankh/Social-Application"</a>
+  Youtube playlist : https://www.youtube.com/playlist?list=PLU73o91LnwnbJfqpuTUFmBVejGHW3wq3F"/>
+  Github project : https://github.com/Madankh/Social-Application
+  Tech stack : React Js, redux , node js , mongodb , firebase , socket io
+  
 
   <h1>Next project is Instagram clone </h1>
-  <a href="https://www.youtube.com/playlist?list=PLU73o91LnwnYwxumwY0IfJJY4b7Kj4KA8"/>
+  Youtube playlist : https://www.youtube.com/playlist?list=PLU73o91LnwnYwxumwY0IfJJY4b7Kj4KA8
   <p>I create social media clone and also upload on youtube too i only upload fontend part on git backend part is only on youtube and my device</p>
-  <a href="https://github.com/Madankh/InstagramClone"</a>
+  Github : https://github.com/Madankh/InstagramClone
+  Tech stack : React Js, passport js , node js , mongodb 
 
   <h1>Next project</h1>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wAbjI4aX0pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
