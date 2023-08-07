@@ -43,6 +43,8 @@ Hi Guys in this page i'm going to show you some of my projects. In these project
   
 
   <h1>Next project is Instagram clone </h1>
+  <img src="https://i.ytimg.com/vi/O51hmFvgWuI/maxresdefault.jpg"/>
+  <br/>
   Youtube playlist : https://www.youtube.com/playlist?list=PLU73o91LnwnYwxumwY0IfJJY4b7Kj4KA8 
   <br/>
   <p>I create social media clone and also upload on youtube too i only upload fontend part on git backend part is only on youtube and my device</p>
