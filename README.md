@@ -30,11 +30,15 @@ Hi Guys in this page i'm going to show you some of my projects. In these project
   -Tech stack : React JS , node js , mongodb, google auth , openai, ffmpeg</p>
 
   <h1>Next project is Social media webapp with my own design</h1>
+  <br/>
   <img src="https://i.ytimg.com/vi/_wm3kPnRdR0/maxresdefault.jpg" />
+  <br/>
   Youtube playlist : https://www.youtube.com/playlist?list=PLU73o91LnwnbJfqpuTUFmBVejGHW3wq3F
   <br/>
   Github project : https://github.com/Madankh/Social-Application
+  <br/>
   Feature : login, signup , follow , unfollow , like , comments , visit profile , forgot password , resetpassword
+  <br/>
   Tech stack : React Js, redux , node js , mongodb , firebase , socket io
   
 
