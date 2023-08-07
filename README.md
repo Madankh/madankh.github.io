@@ -1,6 +1,8 @@
-Hi Guys in this page i'm going to show you my some projects. In these projects some projects i make for my own startup.
+Hi Guys in this page i'm going to show you some of my projects. In these projects some projects i build for my own startup.
 <div>
-  <p>- Created social commerce platform, Aavelance, for my startup.
+  <p>- I Created social commerce platform, Aavelance, for my startup.
+  <br/>
+  <h1>Features</h1>  
 - Users share purchases from Aavelance, earn money if others buy from their posts.
 - Features: Upload video/images, link products, video compression with ffmpeg.
 - Affiliate system, chat/groups for discussing products.
@@ -10,7 +12,8 @@ Hi Guys in this page i'm going to show you my some projects. In these projects s
 - Earning tracking every week.
 - Follow/unfollow sellers and other users.
 - Forgot password with email verification.
-- Ranking feature for post or products    
+- Ranking feature for post or products  
+ <br/>   
 - Tech stack: Node.js, React.js, Redux, MongoDB, AWS S3, Socket.io, ffmpeg, Multer.</p>
   <video width="80%" height="500px" controls>
    <source src="https://firebasestorage.googleapis.com/v0/b/mecoo-712c0.appspot.com/o/Timeline%201.mov?alt=media&token=99db6cd6-3988-4ee3-b0eb-64fc668df665">
