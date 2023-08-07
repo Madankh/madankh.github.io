@@ -3,16 +3,16 @@ Hi Guys in this page i'm going to show you some of my projects. In these project
   <p>- I Created social commerce platform, Aavelance, for my startup.
   <br/>
   <h1>Features</h1>  
-- Users share purchases from Aavelance, earn money if others buy from their posts.
-- Features: Upload video/images, link products, video compression with ffmpeg.
-- Affiliate system, chat/groups for discussing products.
-- Sellers can upload/update/delete products.
-- Automatic payment system every 7 days.
-- Signup with email verification and OTP.
-- Earning tracking every week.
-- Follow/unfollow sellers and other users.
-- Forgot password with email verification.
-- Ranking feature for post or products  
+- Users share purchases from Aavelance, earn money if others buy from their posts.<br/>
+- Features: Upload video/images, link products, video compression with ffmpeg.<br/>
+- Affiliate system, chat/groups for discussing products.<br/>
+- Sellers can upload/update/delete products.<br/>
+- Automatic payment system every 7 days.<br/>
+- Signup with email verification and OTP.<br/>
+- Earning tracking every week.<br/>
+- Follow/unfollow sellers and other users.<br/>
+- Forgot password with email verification.<br/>
+- Ranking feature for post or products <br/>
  <br/>   
 - Tech stack: Node.js, React.js, Redux, MongoDB, AWS S3, Socket.io, ffmpeg, Multer.</p>
   <video width="80%" height="500px" controls>
@@ -38,12 +38,14 @@ Hi Guys in this page i'm going to show you some of my projects. In these project
   
 
   <h1>Next project is Instagram clone </h1>
-  Youtube playlist : https://www.youtube.com/playlist?list=PLU73o91LnwnYwxumwY0IfJJY4b7Kj4KA8
+  Youtube playlist : https://www.youtube.com/playlist?list=PLU73o91LnwnYwxumwY0IfJJY4b7Kj4KA8 
+  <br/>
   <p>I create social media clone and also upload on youtube too i only upload fontend part on git backend part is only on youtube and my device</p>
   <br/>
   Github : https://github.com/Madankh/InstagramClone
   <br/>
   Feature : post ranking where user post have more like the post rank hight and also it the beginning post rank hight when post getting older and if post got less like or comments post rank drop,login, signup , follow , unfollow , like , comments , visit profile , forgot password , resetpassword
+  <br/>
   Tech stack : React Js, passport js , node js , mongodb 
 
   <h1>Next project</h1>
