@@ -30,6 +30,7 @@ Hi Guys in this page i'm going to show you some of my projects. In these project
   -Tech stack : React JS , node js , mongodb, google auth , openai, ffmpeg</p>
 
   <h1>Next project is Social media webapp with my own design</h1>
+  <img src="https://i.ytimg.com/vi/_wm3kPnRdR0/maxresdefault.jpg" />
   Youtube playlist : https://www.youtube.com/playlist?list=PLU73o91LnwnbJfqpuTUFmBVejGHW3wq3F
   <br/>
   Github project : https://github.com/Madankh/Social-Application
