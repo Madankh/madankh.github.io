@@ -59,13 +59,12 @@ Hi Guys in this page i'm going to show you some of my projects. In these project
 <h1>Next project is Chat app </h1>
   <img src="https://i.ytimg.com/vi/uJ9suOYksBo/maxresdefault.jpg"/>
   <br/>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/uJ9suOYksBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="760" height="315" src="https://www.youtube.com/embed/uJ9suOYksBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <br/>
-  <p>I create social media clone and also upload on youtube too i only upload fontend part on git backend part is only on youtube and my device</p>
+  <p>I create chat web app and also upload on youtube too</p>
   <br/>
   Github : https://github.com/Madankh/InstagramClone
-  <br/>
-  Feature : post ranking where user post have more like the post rank hight and also it the beginning post rank hight when post getting older and if post got less like or comments post rank drop,login, signup , follow , unfollow , like , comments , visit profile , forgot password , resetpassword
+  
   <br/>
   Tech stack : React Js, passport js , node js , mongodb 
 
