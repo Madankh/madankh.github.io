@@ -30,6 +30,13 @@ Hi Guys in this page i'm going to show you some of my projects. In these project
   <br/>
   Tech stack : React JS , node js , mongodb, google auth , openai, ffmpeg</p>
 
+  <h1>Next project</h1>
+  <p>I create Ai work sharing platform and launch it i got 50 user from 10 countrys my project get some news in china news sites : e https://chatbene.com/aavelance/
+  <br/>
+   https://tw.rrgod.com/articles/313218.html
+  <br/>
+  Tech stack : React JS , node js , mongodb, redux, ffmpeg</p>
+
   <h1>Next project is Social media webapp with my own design</h1>
   <br/>
   <img src="https://i.ytimg.com/vi/_wm3kPnRdR0/maxresdefault.jpg" />
